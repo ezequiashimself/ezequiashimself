@@ -8,6 +8,6 @@ Atualmente estou aprendendo:
 - CI/CD, containers e infraestrutura como código
 - Práticas e ferramentas modernas de DevOps
 
-Gosto de entender como software é construído e mantido, principalmente projetos open source.
+Gosto de entender como software é construído e mantido — especialmente em projetos open source.
 
 Contato: ezequias@proton.me
