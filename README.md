@@ -1,6 +1,6 @@
 # Olá! Meu nome é Ezequias
 
-Sou estudante de Engenharia de Software na Universidade Federal do Ceará - Campus Quixadá.
+Sou estudante de Engenharia de Software na Universidade Federal do Ceará — Campus Quixadá.
 
 Atualmente estou aprendendo:
 - Rust e JavaScript para desenvolvimento de aplicações
