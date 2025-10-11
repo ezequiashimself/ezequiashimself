@@ -1,4 +1,4 @@
-# Olá! Meu nome é Ezequias
+# Olá! Meu nome é Michel Treme
 
 Sou estudante de Engenharia de Software na Universidade Federal do Ceará — Campus Quixadá.
 
@@ -12,4 +12,4 @@ Gosto de entender como software é projetado, construído e mantido, desde a con
 
 Tenho interesse especial em projetos open source, tanto pelo aspecto técnico quanto pelo espírito de colaboração entre desenvolvedores.
 
-Contato: ezequias@proton.me
+Contato: michel@proton.me
